@@ -32,7 +32,7 @@ p {
 }
 
 .topnav a.active {
-  background-color: #49fb35;
+  background-color: cyan;
   color: white;
 }
 
