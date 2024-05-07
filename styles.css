@@ -4,12 +4,14 @@ body {
 
 h1 {
   color: slateblue;
-  text-align: left;
+  text-align: right;
+  font-family: verdana;
+  font-size: 50px;
 }
 
 p {
   font-family: verdana;
-  font-size: 40px;
+  font-size: 24px;
 }
 
 
