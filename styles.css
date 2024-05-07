@@ -15,6 +15,26 @@ p {
   font-size: 24px;
 }
 
+.topnav {
+  background-color: #E735FB;
+  overflow: hidden;
+  float: center;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #49fb35;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #49fb35;
+  color: white;
+}
 
 ul {
 
